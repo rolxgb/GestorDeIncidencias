@@ -1,0 +1,4 @@
+id,titulo,descripcion,estado,prioridad,tecnico
+INC001,PC sin encender,El ordenador del aula 3 no arranca,Pendiente,Alta,Sin asignar
+INC002,Proyector sin imagen,No muestra la señal HDMI,En proceso,Media,Ana
+INC003,WiFi inestable,Cortes de conexión en biblioteca,Resuelta,Media,Luis
