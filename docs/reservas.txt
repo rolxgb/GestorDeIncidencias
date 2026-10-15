@@ -1,0 +1,4 @@
+SISTEMA DE RESERVAS - BIBLIOTECA FP
+Funcionalidad en desarrollo.
+Normas: máximo 2 libros por alumno; duración de 7 días; no reservar libros no
+disponibles.
