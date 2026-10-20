@@ -1,0 +1,2 @@
+Máximo de libros: 2
+Plazo de préstamo: 7 días
