@@ -1,0 +1,4 @@
+BIBLIOTECA FP - CONFIGURACIÓN
+Plazo de préstamo: 7 días
+Máximo de libros: 2
+Estado: Activo
